@@ -1,5 +1,5 @@
 # ThreeWayLogin
-
+```
 php第三方登录PC端（qq/微博/微信/github/百度/小米/淘宝/支付宝）
 
 ##引入类文件
@@ -98,3 +98,4 @@ $obj->get_code();
 //回调
 
 $obj->callback();
+```
